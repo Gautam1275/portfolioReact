@@ -1,8 +1,8 @@
 import React from 'react';
 import './skill.css';
-import UIDes from '../../assets/uidesign.jpg';
-import webDes from '../../assets/websitedesign.jpg';
-import appDes from '../../assets/app-design.jpg';
+import UIDes from '../../assets/ui-design.png';
+import webDes from '../../assets/website-design.png';
+import appDes from '../../assets/app-design.png';
 
 const Skill = () => {
   return (

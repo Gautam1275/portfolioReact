@@ -9,7 +9,7 @@
 
 .bg {
     position: absolute;
-    top: -4rem;
+    top: -5rem;
     right: 0;
     z-index: -1;
     object-fit: cover;
@@ -66,10 +66,67 @@
     .hello {
         font-size: 4.5vw;
     }
+    
 }
 
+@media screen and (max-width:585px) {
+    .bg {
+        right: -15vw;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+    
+}
 @media screen and (max-width:480px) {
+    .bg {
+        right: -15vw;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+    
+}
+@media screen and (max-width:468px) {
     .bg {
         right: -20vw;
     }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+    
+}
+
+@media screen and (max-width:414px) {
+    .bg {
+        right: -22vw;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+    
+}
+@media screen and (max-width:344px) {
+    .bg {
+        right: -25vw;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+    
 }
