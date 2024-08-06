@@ -40,7 +40,7 @@ const Contact = () => {
             <a href='https://www.facebook.com/Gautam5458Sharma?mibextid=ZbWKwL' target='#'><img src={FacebookIcon} alt="Facebook" className="link" /></a>
             <a href='https://www.instagram.com/gautam1314' target='#'><img src={InstaIcon} alt="Instagram" className="link" /></a>
             <a a href='https://github.com/Gautam1275'  target='#'><img src={GitIcon} alt="GitHub" className="link" /></a>
-            <a href='www.linkedin.com/in/gautam-sharma-6a7175177' target='#'><img src={LinkedInIcon} alt="LinkedIn" className="link" /></a>
+            <a href='https://www.linkedin.com/in/gautam-sharma-6a7175177' target='#'><img src={LinkedInIcon} alt="LinkedIn" className="link" /></a>
           </div>
         </form>
       </div>

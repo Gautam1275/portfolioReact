@@ -8,7 +8,7 @@ const Skill = () => {
   return (
     <section id='skills'>
         <span className="skillTitle">What I do</span>
-        <span className="skillDesc">Content paragraph sddsijbsfkbdsbfhsdasjsdiajhsjidnkjnssaijhsifasijvsvjisafhsihsdicsi dfgdfghdfgdfhdsfdgsdfgxcfzxgdsfzxvzxgdxfzxvxgzxd</span>
+        <span className="skillDesc">Content paragraph</span>
         <div className="skillBars">
             <div className="skillBar">
                 <img src={UIDes} alt="UIDes" className="skillBarImg" />
